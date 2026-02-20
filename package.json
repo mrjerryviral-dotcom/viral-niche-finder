@@ -1,4 +1,3 @@
-package.json
 {
   "name": "viral-niche-finder",
   "version": "1.0.0",
@@ -8,3 +7,4 @@ package.json
     "express": "^4.18.2",
     "openai": "^4.0.0"
   }
+}
